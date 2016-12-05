@@ -6,7 +6,7 @@
     "node": "5.9.1"
   },
   "scripts": {
-    "start": "json-server db.json"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "0.9.2"
