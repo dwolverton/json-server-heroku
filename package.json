@@ -1,0 +1,14 @@
+{
+  "name": "heroku-json-server",
+  "version": "0.1",
+  "description": "Deploying JSON Server to Heroku",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "0.9.2"
+  }
+}
