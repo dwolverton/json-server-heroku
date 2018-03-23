@@ -15,22 +15,26 @@
     {
       "id": 1,
       "name": "Sun Room",
-      "level": 3
+      "level": 3,
+      "available": true
     },
     {
       "id": 2,
       "name": "Green Room",
-      "level": 3
+      "level": 3,
+      "available": false
     },
     {
       "id": 3,
       "name": "Snug",
-      "level": 3
+      "level": 3,
+      "available": false
     },
     {
       "id": 4,
       "name": "Penthouse",
-      "level": 4
+      "level": 4,
+      "available": true
     }
   ]
 }
