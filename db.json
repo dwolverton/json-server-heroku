@@ -1,4 +1,36 @@
 {
-    "rooms": [],
-    "students": []
+  "students": [
+    {
+      "name": "Abe",
+      "course": "iOS",
+      "id": 1
+    },
+    {
+      "name": "Bob",
+      "course": "iOS",
+      "id": 2
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Sun Room",
+      "level": 3
+    },
+    {
+      "id": 2,
+      "name": "Green Room",
+      "level": 3
+    },
+    {
+      "id": 3,
+      "name": "Snug",
+      "level": 3
+    },
+    {
+      "id": 4,
+      "name": "Penthouse",
+      "level": 4
+    }
+  ]
 }
